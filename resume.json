@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Adam Armour",
+    "label": "Software Developer",
+    "email": "adam.armour@gmail.com",
+    "phone": "(303) 898-2409",
+    "summary": "I like to build things that make people happy, with an emphasis on simplicity and clean design.",
+    "location": {
+      "city": "Castle Rock",
+      "region": "Colorado",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/pub/adam-armour/9/612/117"
+      },
+      {
+        "network": "Twitter",
+        "username": "adamarmour",
+        "url": "http://twitter.com/adamarmour"
+      },
+      {
+        "network": "GitHub",
+        "username": "aarmour",
+        "url": "http://github.com/aarmour"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pearson",
+      "position": "Senior Software Developer",
+      "website": "https://www.pearson.com",
+      "startDate": "2012-03-02",
+      "summary": "Software developer and team lead for the Pearson Exchange, a marketplace and e-commerce platform for next generation digital education products.",
+      "highlights": [
+        "Lead a team of developers during development of the Pearson marketplace for new digital product lines.",
+        "Collaborated with end users and stakeholders across multiple business units to gather requirements and implement features to meet the diverse needs of instructors and students for discovering and adopting educational resources.",
+        "Implemented back end RESTful services in Node.js using the Express and Hapi frameworks.",
+        "Implemented the primary front end and UI components using JavaScript and AngularJS.",
+        "Deployed and tuned Elasticsearch for search capabilities and application monitoring using the Elasticsearch, Logstash, and Kibana (ELK) stack.",
+        "Migrated a previous-generation product (OpenClass Exchange) from Backbone.js to AngularJS. Developed a dashboard tool to monitor vital statistics for the application in the production and staging environments.",
+        "Worked directly with client technical teams at multiple higher education institutions to design and implement features to integrate Equella content stores with OpenClass and Exchange.",
+        "Maintained a high standard for software quality through automated linting and code style verification and unit, component, integration, performance, and end-to-end UI testing, as well as code reviews using pull requests.",
+        "Collaborated extensively with QA team members to improve test automation and reliability.",
+        "Worked directly with product owners, designers, and development managers on multiple teams to deliver high-quality features.",
+        "Participated in bi-annual company hackathons. Developed a concept application that combined the Strava API and Hyperlapse.js to dynamically build dynamic hyperlapse sequences from a user's route segments.",
+        "Mentored junior members on the team but also learned from them."
+      ]
+    },
+    {
+      "company": "ATA Services / SAIC",
+      "position": "Software Developer",
+      "startDate": "2008-02-01",
+      "endDate": "2012-04-01",
+      "summary": "Software developer and contractor for the U.S. Geological Survey, National Geospatial Technical Operations Center.",
+      "highlights": [
+        "Designed and implemented key aspects of the Maps on Demand architecture, the system used by the U.S. Geological Survey to produce the US Topo digital topographic map products.",
+        "Developed and maintained internal web applications for management of topographic map production, including data preprocessing, map product generation, post production, and delivery.",
+        "Substantially reduced the number of manual operations required to produce map products.",
+        "Built prototypes to test future product ideas, such as custom map generation and adoption of OpenStreetMap for base data.",
+        "Leveraged open source projects, including Leaflet—a JavaScript library for interactive maps—to improve user experience in legacy and greenfield applications.",
+        "Collaborated with the enterprise architect to design and implement web services for The National Map Viewer.",
+        "Collaborated with the National Geospatial-Intelligence Agency on inter-agency mapping projects.",
+        "Worked with TerraGO senior leadership and developers to recommend improvements to the GeoPDF file format and vendor-provided tools and libraries.",
+        "Conducted peer training for improved development practices—including testing, source control, continuous integration, and continuous delivery—to improve software quality and reduce integration time.",
+        "Attended ESRI developer conferences."
+      ]
+    },
+    {
+      "company": "Bureau Veritas",
+      "position": "Consultant",
+      "startDate": "2004-01-01",
+      "endDate": "2008-01-01",
+      "highlights": [
+        "Developed a management application for tracking environmental assessment projects for the Denver regional office's largest telecommunications client. Replaced the existing spreadsheet workflow, reducing missed deadlines and project overhead costs.",
+        "Provided technical guidance and contributed to writing project proposals for existing and new clients.",
+        "Managed on-site data collection, including contractor oversight, for environment assessment and remediation projects that required geospatial data for advanced geo- and hydrologic analysis."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colorado, Boulder",
+      "area": "Geological Sciences",
+      "studyType": "Bachelor",
+      "startDate": "1999-08-01",
+      "endDate": "2003-08-01"
+    },
+    {
+      "institution": "University of Colorado, Denver",
+      "area": "Computer Science",
+      "studyType": "Minor",
+      "startDate": "1999-08-01",
+      "endDate": "2003-08-01"
+    },
+    {
+      "institution": "University of Colorado, Denver",
+      "area": "Geographic Information Systems",
+      "studyType": "Certificate",
+      "startDate": "2007-08-01",
+      "endDate": "2008-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML / HTML5",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Python"
+      ]
+    },
+    {
+      "name": "Database/Search",
+      "keywords": [
+        "Elasticsearch",
+        "MongoDB",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Docker",
+        "Amazon Web Services",
+        "DevOps",
+        "Deployment Automation",
+        "UX",
+        "SOA / Microservices",
+        "Linux",
+        "Agile / Scrum"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling",
+      "keywords": [
+        "MTB",
+        "Road",
+        "Unicycle"
+      ]
+    }
+  ]
+}

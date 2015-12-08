@@ -1,15 +1,15 @@
 {
   "name": "resume",
-  "version": "0.0.0",
-  "description": "My resume",
   "private": true,
-  "dependencies": {
+  "description": "My resume",
+  "author": "Adam Armour",
+  "private": true,
+  "scripts": {
+    "export-html": "resume export -f html -t slick dist/aarmour.html",
+    "export-pdf": "resume export -f pdf -t slick dist/aarmour.pdf",
+    "export-all": "npm run export-html && npm run export-pdf"
   },
   "devDependencies": {
-    "resume-cli": "^0.3.10"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Adam Armour"
+    "resume-cli": "^0.4.0"
+  }
 }
